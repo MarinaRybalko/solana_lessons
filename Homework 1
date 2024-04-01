@@ -1,0 +1,27 @@
+Homework 1
+
+1. Task: Discuss in your teams what a decentralised version of a game like monopoly would be
+like, if there was no software on a central server. Consider What are the essential pieces of functionality? How could people cheat? How could you prevent them from cheating? 
+This is just a general discussion, there is no need to write any code or do any design.
+Answer: 
+Essential Pieces:
+Blockchain: This acts as the game board, storing ownership of properties, player funds, and game state. Every transaction (buying, renting, etc.) would be a block on the chain.
+Smart Contracts: These automate gameplay. They'd handle dice rolls (using verifiable randomness), rent payments, and property upgrades based on pre-defined rules.
+Crypto Wallets: Players would use their wallets to connect to the game and hold their in-game currency (potentially crypto tokens).
+Potential Cheats:
+Collusion: Players could team up to manipulate the blockchain or dice rolls.
+Fake Transactions: Malicious users might try to inject fake transactions (buying properties they don't own).
+Exploiting Bugs: Bugs in the smart contracts could allow unfair advantages.
+Preventing Cheats:
+Consensus Mechanism: Blockchain's distributed ledger and consensus mechanism (like Proof of Stake) make tampering very difficult.
+Community Watch: Players could report suspicious activity and vote to penalize cheaters by removing them from the game.
+Regular Audits: Independent audits of the smart contracts would be crucial to identify and fix vulnerabilities.
+
+2. Task: Do you feel that Central Bank Digital Currencies (CBDCs) are a move towards decentralisation? Will they help or hinder adoption of other cryptocurrencies?
+Answer: CBDCs are actually a central bank's take on digital currencies, so they inherently move against decentralization. Unlike cryptocurrencies, CBDCs are issued and controlled by a central authority, offering stability but lacking the anonymity and freedom from central control that attracts some cryptocurrency users.
+Impact on Other Cryptocurrencies:
+Hinderance: CBDCs could be seen as a government-sanctioned alternative, potentially reducing the need for some cryptocurrencies, especially stablecoins pegged to fiat currencies.
+Help: CBDCs might legitimize the digital currency concept overall, increasing awareness and potentially driving interest in the broader cryptocurrency ecosystem.
+The future impact depends on several factors:
+CBDC design: If CBDCs offer more privacy and flexibility, they might coexist peacefully with existing cryptocurrencies.
+Regulation: Stringent regulations on existing cryptocurrencies could push users towards CBDCs.
