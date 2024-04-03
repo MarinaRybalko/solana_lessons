@@ -1,0 +1,11 @@
+Homework 2
+1. How many validators are there currently ? 
+The Solana network has two types of validators: Consensus Nodes and RPC nodes. Solana has 3,400 validators, of which 2,400 are consensus nodes
+2. What is special about this block https://explorer.solana.com/block/0? This is the first block in the network
+3. What is special about this address https://explorer.solana.com/address/1nc1nerator11111111111111111111111111111111? It's an address for burning tokens 
+4. What is this transaction doing https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf? Burning tokens 11,365,066.99 SOL
+5. What is the largest balance you can find in an account ?  This account with 4,370,350.379847093 tokens.
+6. What advantages will the end user see when using Solana compared to other blockchains ? 
+Transaction Speed: Solana processes transactions significantly faster than many other blockchains. We're talking thousands of transactions per second compared to single digits or tens of transactions for some competitors. This means quicker confirmations for your actions on the network.
+Transaction Cost: Fees on Solana are typically much lower than on other blockchains, especially for frequent users. This is because Solana uses a different fee structure that avoids complex calculations.
+7. Install Rust if needed. done
